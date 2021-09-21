@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestJpaJunitApplication {
+public class TodosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestJpaJunitApplication.class, args);
+		SpringApplication.run(TodosApplication.class, args);
 	}
 
 }
